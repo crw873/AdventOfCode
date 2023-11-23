@@ -158,6 +158,9 @@ owner_proof.txt
 # Ignore SESSION_IDs for cookies 
 *session_id.txt
 
+# csvs
+*.csv
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
